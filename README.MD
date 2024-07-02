@@ -41,10 +41,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 ### 📊 Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharifulislam1999&" alt="sharifulislam1999" /></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifulislam1999&label=Profile%20views&color=0e75b6&style=flat" alt="sharifulislam1999" /> </p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharifulislam1999&" alt="sharifulislam1999" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharifulislam1999&show_icons=true&locale=en" alt="sharifulislam1999" /></p>
 
 
