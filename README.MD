@@ -36,9 +36,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <img align="left" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="IOS" height ="42px"/> 
 
 <br>
+<br>
+<br>
 
-<br>
-<br>
 ### 📊 Github Stats
 <a href='https://github.com/rahul-jha98/github-stats-transparent'>
   
