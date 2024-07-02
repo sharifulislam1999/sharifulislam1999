@@ -30,6 +30,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 <br>
 
+### 🚥 Familiar  With:
+<img align="left" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="Next.js" height ="42px"/> 
+<img align="left" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/dbbc299a-8356-45e4-9d2e-a6c21b4569cf" alt="php" height ="42px"/> 
+<img align="left" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="Mysql" height ="42px"/> 
+
+<br>
+<br>
+<br>
+
 ### 🚀 Technologies that I want to learn in the future:
 <img align="left" src="https://www.softintel.co.nz/wp-content/uploads/2019/05/desktop-app-development.png" alt="Desktop App" height ="42px"/> 
 <img align="left" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" height ="42px"/> 
