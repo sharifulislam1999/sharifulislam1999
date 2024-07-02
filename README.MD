@@ -49,6 +49,8 @@
 <br>
 <br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ### 📊 Github Stats
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharifulislam1999&label=Profile%20views&color=0e75b6&style=flat" alt="sharifulislam1999" /> </p>
