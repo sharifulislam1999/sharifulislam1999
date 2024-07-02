@@ -1,9 +1,7 @@
 [![Header](https://i.ibb.co/9hs98D6/shariful-islam.png "Header")](https://www.linkedin.com/in/shariful-islam-dev/)
 
 ## Hey 👋, I'm Shariful Islam!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/shariful-islam-dev/'><img align='left' alt="linkedin" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fen-us%2Fdetail%2F9wzdncrfj4q7&psig=AOvVaw3U9WuheCEDlwTCQ4QCzih0&ust=1719982347064000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiVttXHh4cDFQAAAAAdAAAAABAE" height='18px'/></a>
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
