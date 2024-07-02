@@ -28,6 +28,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
  <img align="left" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="VS Code" height ="42px"/> 
 
 <br>
+<br>
+<br>
 
 
 ### 📊 Github Stats
