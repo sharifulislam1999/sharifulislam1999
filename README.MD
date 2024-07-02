@@ -1,7 +1,8 @@
 [![Header](https://i.ibb.co/9hs98D6/shariful-islam.png "Header")](https://www.linkedin.com/in/shariful-islam-dev/)
 
 ## Hey 👋, I'm Shariful Islam!
-<a href='https://www.linkedin.com/in/shariful-islam-dev/'><img align='left' alt="linkedin" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fapps.microsoft.com%2Fen-us%2Fdetail%2F9wzdncrfj4q7&psig=AOvVaw3U9WuheCEDlwTCQ4QCzih0&ust=1719982347064000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiVttXHh4cDFQAAAAAdAAAAABAE" height='18px'/></a>
+<a href=''><img align='left' alt="linkedin" src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473" height='18px'/></a>
+ <img align="left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" height ="42px"/> 
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
