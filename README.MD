@@ -21,6 +21,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
  <img align="left" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node" height ="42px"/> 
  <img align="left" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" height ="42px"/> 
  <img align="left" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="MongoDB" height ="42px"/> 
+ <img align="left" src="https://user-images.githubusercontent.com/25181517/189715289-df3ee512-6eca-463f-a0f4-c10d94a06b2f.png" alt="Figma" height ="42px"/> 
+ <img align="left" src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" height ="42px"/> 
 
 <br>
 
