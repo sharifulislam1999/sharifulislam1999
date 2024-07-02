@@ -31,7 +31,9 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <br>
 
 ### 🚀 Technologies that I want to learn in the future:
-<img align="left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" height ="42px"/> 
+<img align="left" src="https://www.softintel.co.nz/wp-content/uploads/2019/05/desktop-app-development.png" alt="Desktop App" height ="42px"/> 
+<img align="left" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Android" height ="42px"/> 
+<img align="left" src="https://user-images.githubusercontent.com/25181517/121406611-a8246b80-c95e-11eb-9b11-b771486377f6.png" alt="IOS" height ="42px"/> 
 
 <br>
 
