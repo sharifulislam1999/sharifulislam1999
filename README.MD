@@ -7,14 +7,12 @@
 
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-  
-### 🧐 More About Me:
-My Name Is Shariful Islam
 
 <br>
 
 ### 🔨 Languages and Tools:
-<a <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
+<a <img align="left" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="firebase" height ="42px"/> </a>
+
 <a <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
