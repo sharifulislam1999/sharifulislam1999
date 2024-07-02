@@ -5,8 +5,7 @@
 <br>
 
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-
+👋 Hi there! I'm Shariful Islam, a junior web developer with a keen interest in creating dynamic and responsive websites. With a foundation in both front-end and back-end technologies, I enjoy tackling new challenges and continuously learning to improve my skills.
 <br>
 
 ### 🔨 Languages and Tools:
